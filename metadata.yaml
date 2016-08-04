@@ -1,0 +1,39 @@
+_repo: Undine_3714
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bunnett, F. E. (Fanny Elizabeth)
+    alias: Bunnett, Fanny Elizabeth
+    birthdate: 1832
+    deathdate: 1875
+    gutenberg_agent_id: '1276'
+    url: http://www.gutenberg.org/2009/agents/1276
+creator:
+  author:
+    agent_name: La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de
+    aliases:
+    - Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de La
+    - Fouqué, Lamotte
+    - Motte-Fouque, Friedrich Heinrich Karl, Freiherr de La
+    birthdate: 1777
+    deathdate: 1843
+    gutenberg_agent_id: '1045'
+    url: http://www.gutenberg.org/2009/agents/1045
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_de_la_Motte_Fouqué
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Fairy tales -- Germany'
+- GITenberg
+title: Undine
+url: http://www.gutenberg.org/ebooks/3714
